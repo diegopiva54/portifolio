@@ -1,0 +1,49 @@
+.container-fluid{
+	background-color: #2e2e30;
+}
+
+.logo img{
+	width: 50px;
+	border-radius: 50%;
+	padding: 8px 0px;
+}
+
+.logo img:hover{
+	width: 120px;
+}
+
+.main_menu{
+	margin: 0;
+}
+
+.main_menu li{
+	margin: 4px 15px;
+	list-style: none;
+}
+
+.main_menu li a{
+	padding: 4px 8px;
+	color: #EF7674;
+	font-size: 17px;
+	text-decoration: none;
+}
+
+.main_menu li a:hover{
+	color: #d66765;
+	font-size: 19px;
+}
+
+.main_body{
+	background-color: #2e2e30;
+	height: calc(100vh - 66px);
+}
+
+.social a{
+	font-size: 20px;
+	text-decoration: none;
+	color: #39A2AE;
+}
+
+.social a i{
+	font-size: 20px;
+}
